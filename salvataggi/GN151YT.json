@@ -3,6 +3,7 @@
   "kwVettura": "120",
   "nomeVetturaInp": "AUDI A4",
   "linkImmagine4": "https://autolazeta.it/wp-content/uploads/2025/10/22826798_O_i951qow06ga2m.jpg",
+  "telefonoCliente": "",
   "tecnologia": "MHEV (No Batt)",
   "legge104": "0",
   "data": "",
@@ -23,10 +24,12 @@
   "dettagliPermuta": "",
   "nomeVettura": "AUDI A4",
   "annoImmatricolazione": "2023",
+  "activeAlerts": "[]",
   "finanziamentoServiziAttivo": "0",
   "servicesPdp": "0",
   "free1": "",
   "cognomeCliente": "",
+  "indirizzoCliente": "",
   "linkImmagine3": "https://autolazeta.it/wp-content/uploads/2025/10/22826798_O_awzk75mo3nie1.jpg",
   "optionalSpecialeNome": "",
   "optionalSpecialeImporto": "",
@@ -43,6 +46,6 @@
   "valoreVettura": "28380",
   "optionalPreventivoValue": "",
   "classeAuto": "Premium",
-  "infoPrincipali": "Unico proprietario\nChilometri percorsi certificati e garantiti contrattualmente\nClasse ambientale: Euro 6d isc-fcm\nRevisione: valida fino al 07/2027\nColore: Blu Navarra\nTarga: GN151YT \nTelaio: WAUZZZF49PA067905",
-  "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/10/22826798_O_mruicx9tf018j.jpg"
+  "infoPrincipali": "Unico proprietario\nChilometri percorsi certificati e garantiti contrattualmente\nClasse ambientale: Euro 6d isc-fcm\nRevisione: valida fino al 07/2027\nColore: Blu Navarra\nTarga: GN151YT\nTelaio: WAUZZZF49PA067905",
+  "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/10/22826798_O_knfbraxlg0pi4.jpg"
 }
