@@ -30,7 +30,7 @@
   "nomeVettura": "AUDI S6",
   "protection_override_durata": "36",
   "annoImmatricolazione": "2021",
-  "activeAlerts": "[]",
+  "activeAlerts": "[\"Verificare effettivo costo garanzia e tagliandi\"]",
   "finanziamentoServiziAttivo": "0",
   "dataImmatricolazione": "2021-07-01",
   "servicesPdp": "0",
@@ -54,7 +54,7 @@
   "prezzoZero": "2310",
   "optionalPreventivoValue": "",
   "importoDaAssicurare": "52510",
-  "classeAuto": "Premium",
+  "classeAuto": "Super",
   "infoPrincipali": "TAGLIANDI UFFICIALI AUDI fatti a: 5.635 km il 06/2022; 16.601 km il 07/2024; 37.956 km il 17/06/2025.\nREVISIONE fatta a 43.885 km il 27/08/2025, valida fino al 09/2027.\nTELAIO: WAUZZZF24MN101736.\nDistribuzione a catena.\nEURO 6D ISC-FCM.\nCOLORE: FIRMAMENTBLAU METELLIZZATO.\nDoppi cerchi del 20\" disponibili.",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/09/21506023_O_txegz75k1d9rm.jpg"
 }
