@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "23000",
+  "importoDaFinanziare": "17500",
   "kwVettura": "230",
   "nomeVetturaInp": "AUDI A6",
   "prezzoValore": "760",
@@ -50,10 +50,11 @@
   "tipologiaAutocarro": "NO",
   "servicesDurata": "36",
   "personalizzato": "",
-  "valoreVettura": "21490",
+  "valoreVettura": "21290",
   "prezzoZero": "2310",
+  "anticipo": "5300",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "23000",
+  "importoDaAssicurare": "22800",
   "classeAuto": "Premium",
   "infoPrincipali": "ULTIMO TAGLIANDO fatto a: 128.541 km il 27/01/2025.\nSOSTITUZIONE OLIO CAMBIO AUTOMATICO fatto a: 118.284 km il 11/01/2024.\nREVISIONE fatta il 21/03/2024 a 118.284 Km, valida fino al 04/2026.\nTELAIO: WAUZZZ4G1EN084832.\nDistribuzione a catena.\nBollo PAGATO fino al 01/2026.\nEURO 5b.",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/07/22580618_O_5n7pja24ky019.jpg"
