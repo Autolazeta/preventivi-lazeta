@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "42980",
+  "importoDaFinanziare": "42580",
   "kwVettura": "150",
   "nomeVetturaInp": "AUDI A8",
   "prezzoValore": "760",
@@ -32,7 +32,7 @@
   "annoImmatricolazione": "2023",
   "activeAlerts": "[]",
   "finanziamentoServiziAttivo": "0",
-  "dataImmatricolazione": "",
+  "dataImmatricolazione": "2023-09-01",
   "servicesPdp": "0",
   "free1": "",
   "cognomeCliente": "",
@@ -53,7 +53,7 @@
   "valoreVettura": "41490",
   "prezzoZero": "2310",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "42980",
+  "importoDaAssicurare": "42580",
   "classeAuto": "Premium",
   "infoPrincipali": "UNICO proprietario.\nULTIMO TAGLIANDO fatto a: 53.573 km il 27/02/2025.\nREVISIONE valida fino al 10/2027.\nTELAIO: WAUZZZF57RA012252.\nTARGA: GR818SK.\nEURO 6d isc-fcm.\nCOLORE: Grigio Chronos.",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/08/22633625_O_kv4zsno8buiw1.jpg"
