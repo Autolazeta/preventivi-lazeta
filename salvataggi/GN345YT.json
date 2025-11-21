@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "29350",
+  "importoDaFinanziare": "21800",
   "kwVettura": "120",
   "nomeVetturaInp": "AUDI A4",
   "prezzoValore": "760",
@@ -50,10 +50,11 @@
   "T2": "520",
   "linkImmagine3": "https://autolazeta.it/wp-content/uploads/2025/10/22842471_O_xdkyn42lvqe8p.jpg",
   "personalizzato": "",
-  "valoreVettura": "28440",
+  "valoreVettura": "27890",
   "prezzoZero": "2310",
+  "anticipo": "7000",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "29350",
+  "importoDaAssicurare": "28800",
   "classeAuto": "Premium",
   "infoPrincipali": "Unico proprietario\nChilometri percorsi certificati e garantiti contrattualmente\nClasse ambientale: Euro 6d ISC-FCM\nRevisione: valida fino al 07/2027\nColore: Mythosschwarz \nTarga: GN345YT \nTelaio: WAUZZZF48PA066647",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/10/22842471_O_hzl3t7i6oscr1.jpg"

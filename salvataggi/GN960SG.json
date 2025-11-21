@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "48450",
+  "importoDaFinanziare": "36240",
   "kwVettura": "140",
   "nomeVetturaInp": "VOLKSWAGEN T-Roc",
   "prezzoValore": "760",
@@ -50,10 +50,11 @@
   "tipologiaAutocarro": "NO",
   "servicesDurata": "36",
   "personalizzato": "",
-  "valoreVettura": "47400",
+  "valoreVettura": "46890",
   "prezzoZero": "2310",
+  "anticipo": "11700",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "48450",
+  "importoDaAssicurare": "47940",
   "classeAuto": "Premium",
   "infoPrincipali": "Unico proprietario\nChilometri percorsi certificati e garantiti contrattualmente\nTagliandi ufficiali fatti a: 47.272 km il 26/02/2025; 25.008 km il 23/04/2024\nClasse ambientale: Euro 6d isc-fcm\nRevisione: valida fino al 05/2027\nGomme seminuove al 70%.\nColore: Alpine White\nTarga: GN960SG \nTelaio: WBA31CA0909R75650",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/11/22977110_O_3c1g6tyjvf794.jpg"

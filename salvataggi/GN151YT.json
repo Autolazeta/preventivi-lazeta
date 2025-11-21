@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "29290",
+  "importoDaFinanziare": "21800",
   "kwVettura": "120",
   "nomeVetturaInp": "AUDI A4",
   "prezzoValore": "760",
@@ -50,10 +50,11 @@
   "tipologiaAutocarro": "NO",
   "servicesDurata": "36",
   "personalizzato": "",
-  "valoreVettura": "28380",
+  "valoreVettura": "27890",
   "prezzoZero": "2310",
+  "anticipo": "7000",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "29290",
+  "importoDaAssicurare": "28800",
   "classeAuto": "Premium",
   "infoPrincipali": "Unico proprietario\nChilometri percorsi certificati e garantiti contrattualmente\nClasse ambientale: Euro 6d isc-fcm\nRevisione: valida fino al 07/2027\nColore: Blu Navarra\nTarga: GN151YT\nTelaio: WAUZZZF49PA067905",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/10/22826798_O_knfbraxlg0pi4.jpg"

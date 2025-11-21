@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "20050",
+  "importoDaFinanziare": "15050",
   "kwVettura": "110",
   "nomeVetturaInp": "VOLKSWAGEN Caravelle",
   "prezzoValore": "700",
@@ -50,10 +50,11 @@
   "tipologiaAutocarro": "NO",
   "servicesDurata": "36",
   "personalizzato": "",
-  "valoreVettura": "19190",
+  "valoreVettura": "18890",
   "prezzoZero": "2250",
+  "anticipo": "4700",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "20050",
+  "importoDaAssicurare": "19750",
   "classeAuto": "Premium",
   "infoPrincipali": "REVISIONE valida fino al 10/2026.\nTELAIO: WV1ZZZ7HZHH032874.\nCinghia di distribuzione sostituita a 147.930 km il 03/02/2020.\nEURO 6B.\nPortata 963 Kg.\nImmatricolato come autocarro 5 posti.",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/07/22558631_O_fjt4uebr1oks9.jpg"
