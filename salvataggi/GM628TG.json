@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "22750",
+  "importoDaFinanziare": "17050",
   "kwVettura": "110",
   "nomeVetturaInp": "VOLKSWAGEN T-Roc",
   "prezzoValore": "620",
@@ -50,10 +50,11 @@
   "tipologiaAutocarro": "NO",
   "servicesDurata": "36",
   "personalizzato": "",
-  "valoreVettura": "21890",
+  "valoreVettura": "21590",
   "prezzoZero": "1960",
+  "anticipo": "5400",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "22750",
+  "importoDaAssicurare": "22450",
   "classeAuto": "Standard",
   "infoPrincipali": "UNICO proprietario.\nREVISIONE valida fino al 03/2027.\nTELAIO: WVGZZZA1ZPV547453.\nTARGA: GM628TG.\nEURO 6D ISC-FCM.\nCOLORE: RAVENNA BLU.",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/08/22703031_O_gt8lwhpjazfs0.jpg"
