@@ -1,6 +1,6 @@
 {
   "assicurazioneDurataFurto": "36",
-  "importoDaFinanziare": "28700",
+  "importoDaFinanziare": "21500",
   "kwVettura": "120",
   "nomeVetturaInp": "AUDI A3",
   "prezzoValore": "760",
@@ -50,10 +50,11 @@
   "T2": "520",
   "linkImmagine3": "https://autolazeta.it/wp-content/uploads/2025/10/22909389_O_d2i0jv9fbz645.jpg",
   "personalizzato": "",
-  "valoreVettura": "27790",
+  "valoreVettura": "27490",
   "prezzoZero": "2310",
+  "anticipo": "6900",
   "optionalPreventivoValue": "",
-  "importoDaAssicurare": "28700",
+  "importoDaAssicurare": "28400",
   "classeAuto": "Premium",
   "infoPrincipali": "Unico proprietario\nChilometri percorsi certificati e garantiti contrattualmente\nClasse ambientale: Euro 6d isc-fcm\nRevisione: valida fino al 07/2027\nColore: Argento Floret\nTarga: GN323YT \nTelaio: WAUZZZF47PA066459",
   "linkImmagine2": "https://autolazeta.it/wp-content/uploads/2025/10/22909389_O_cd1hxukegno07.jpg"
