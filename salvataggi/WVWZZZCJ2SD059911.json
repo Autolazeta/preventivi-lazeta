@@ -1,19 +1,19 @@
 {
-  "supplementoGaranzia": "0",
   "assicurazioneDurataFurto": "36",
   "kwVettura": "150",
   "prezzoValore": "1160",
   "linkImmagine4": "http://graphics.gestionaleauto.com/gonline_graphics/23789346_O_f1dlvmuz9cthy.jpg",
+  "linkImmagine2": "http://graphics.gestionaleauto.com/gonline_graphics/23789346_O_omrh96g3adqpe.jpg",
   "sottotitoloVettura": "1.5 TSI eHybrid 204 CV DSG Business",
   "durataFinanziamento": "60",
   "nomeVettura": "VOLKSWAGEN Passat",
   "prezzoAdvanced": "2537.5",
   "dataImmatricolazione": "2025-07-01",
   "tecnologia": "Ibrido Bat",
-  "prezzoZero": "6472.5",
-  "linkImmagine3": "http://graphics.gestionaleauto.com/gonline_graphics/23789346_O_4rl2avqbhfp96.jpg",
-  "targaInputGlobal": "WVWZZZCJ2SD059911",
   "tipologiaAutocarro": "NO",
+  "prezzoZero": "6472.5",
+  "targaInputGlobal": "WVWZZZCJ2SD059911",
+  "linkImmagine3": "http://graphics.gestionaleauto.com/gonline_graphics/23789346_O_4rl2avqbhfp96.jpg",
   "easyjson_auth": "unlocked",
   "cambioAutomatico": "1",
   "optionalDotazioni": "Fari LED con Light Assist-Regolazione automatica e dinamica dei fari, Adaptive Cruise Control con Travel Assist, Lane Assist-Controllo elettronico della corsia, Side Assist-monitoraggio dell'angolo cieco, Front Assist-Sistema di frenata d'emergenza, Digital Cockpit Pro, Park Asist con Area View e Rear View, Winterpack, Sedili comfort riscaldabili e massaggianti con supporto lombare, Keyless, Gancio di traino estraibile con sbloccaggio elettrico e con sistema di manovra del rimorchio Trailer Assist, Luci d'ambiente, Cerchi in lega \"Bologna\" 7,5 J x 17\" Dark Graphite con superficie diamantata, Spoiler, Android Auto e Apple Carplay, Dab",
@@ -27,5 +27,5 @@
   "importoDaAssicurare": "32800",
   "classeAuto": "Standard",
   "infoPrincipali": "Garanzia Ufficiale della casa madre fino al 14/07/2027.\nPrezzo di listino da nuova: 52.577€\nUnico proprietario\nChilometri percorsi certificati e garantiti contrattualmente\nClasse ambientale: Euro 6D-TEMP\nRevisione: valida fino al 08/2029\nColore esterno Grenadill Black Metallizzato; interno Soul-Nero.\nTelaio: WVWZZZCJ2SD059911\n\nInfo Base:\nAlimentazione: Elettrica/Benzina\nChilometraggio: 23000\nTelaio: WVWZZZCJ2SD059911",
-  "linkImmagine2": "http://graphics.gestionaleauto.com/gonline_graphics/23789346_O_omrh96g3adqpe.jpg"
+  "supplementoGaranzia": "0"
 }
