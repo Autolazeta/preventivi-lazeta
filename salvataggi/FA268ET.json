@@ -1,10 +1,10 @@
 {
   "assicurazioneDurataFurto": "36",
   "kwVettura": "228",
-  "prezzoValore": "1860",
+  "prezzoValore": "1644",
   "linkImmagine4": "http://graphics.gestionaleauto.com/gonline_graphics/23993271_O_ciwgqa1d9tkbz.jpg",
   "durataFinanziamento": "60",
-  "prezzoAdvanced": "3635",
+  "prezzoAdvanced": "3311",
   "tecnologia": "Benzina",
   "easyjson_auth": "unlocked",
   "targaInput": "FA268ET",
@@ -18,7 +18,7 @@
   "nomeVettura": "AUDI TTS",
   "dataImmatricolazione": "2015-07-01",
   "linkImmagine3": "http://graphics.gestionaleauto.com/gonline_graphics/23993271_O_ctasozxe6k3n0.jpg",
-  "prezzoZero": "8410",
+  "prezzoZero": "7870",
   "targaInputGlobal": "FA268ET",
   "tipologiaAutocarro": "NO",
   "assicurazioneImporto": "6300",
@@ -28,7 +28,7 @@
   "linkSchedaVettura": "https://autolazeta.it/veicoli/audi-tts-coupe-2-0-tfsi-310-cv-quattro-s-tronic-benzina/",
   "valoreVettura": "29890",
   "importoDaAssicurare": "40290",
-  "classeAuto": "Super",
-  "linkImmagine2": "http://graphics.gestionaleauto.com/gonline_graphics/23993271_O_enrfh5gbl0t73.jpg",
-  "infoPrincipali": "Chilometri percorsi certificati e garantiti contrattualmente\nTagliandi ufficiali fatti a: 62.412km il 30/04/2025; 49.256km il 24/07/2024; 26.254km il 26/07/2017; prossimo tagliando Gratuito prima della consegna.\nClasse ambientale: Euro 6B\nRevisione: fatta il 09/07/2025 a 63.470 Km, valida fino al 07/2027\nGomme seminuove al 60%.\nColore esterno Brilliant black ; interno Nero.\nTarga: FA268ET | Telaio: TRUZZZFV0G1001762"
+  "classeAuto": "Premium",
+  "infoPrincipali": "Chilometri percorsi certificati e garantiti contrattualmente\nTagliandi ufficiali fatti a: 62.412km il 30/04/2025; 49.256km il 24/07/2024; 26.254km il 26/07/2017; prossimo tagliando Gratuito prima della consegna.\nClasse ambientale: Euro 6B\nRevisione: fatta il 09/07/2025 a 63.470 Km, valida fino al 07/2027\nGomme seminuove al 60%.\nColore esterno Brilliant black ; interno Nero.\nTarga: FA268ET | Telaio: TRUZZZFV0G1001762",
+  "linkImmagine2": "http://graphics.gestionaleauto.com/gonline_graphics/23993271_O_enrfh5gbl0t73.jpg"
 }
